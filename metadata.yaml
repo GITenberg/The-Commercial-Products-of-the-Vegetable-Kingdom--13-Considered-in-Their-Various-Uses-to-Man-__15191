@@ -1,0 +1,32 @@
+_repo: The-Commercial-Products-of-the-Vegetable-Kingdom--13-Considered-in-Their-Various-Uses-to-Man-__15191
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Simmonds, P. L. (Peter Lund)
+    alias: Simmonds, Peter Lund
+    birthdate: 1814
+    deathdate: 1897
+    gutenberg_agent_id: '5910'
+    url: http://www.gutenberg.org/2009/agents/5910
+description: ''
+gutenberg_issued: '2005-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15191'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Botany, Economic'
+title: "The Commercial Products of the Vegetable Kingdom\r\nConsidered in Their Various\
+  \ Uses to Man and in Their Relation to the Arts and Manufactures; Forming a Practical\
+  \ Treatise & Handbook of Reference for the Colonist, Manufacturer, Merchant, and\
+  \ Consumer, on the Cultivation, Preparation for Shipment, and Commercial Value,\
+  \ &c. of the Various Substances Obtained From Trees and Plants, Entering into the\
+  \ Husbandry of Tropical and Sub-tropical Regions, &c."
+url: http://www.gutenberg.org/ebooks/15191
